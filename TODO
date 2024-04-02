@@ -1,0 +1,9 @@
+DEDUP, DUP?
+
+MINNTH, MAXNTH, SORTEDSLICE (ARRAYVIEW)
+[bag][nth] ...
+
+CATERORIZE
+core vs derived functions
+core: generic, usually multi-liners
+derived: specific, usually one-liners
